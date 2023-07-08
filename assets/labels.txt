@@ -1,0 +1,4 @@
+Gliomas
+Meningioma
+No_Tumor
+Pituitary
